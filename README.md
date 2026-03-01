@@ -2,9 +2,7 @@
 
 📌 Overview
 
-This project implements a production-style credit risk scoring system to predict the likelihood of loan default using Logistic Regression with ElasticNet regularization.
-
-The objective is to identify high-risk borrowers and optimize lending decisions using a data-driven approach.
+This project implements a production-style credit risk scoring system to predict the likelihood of loan default using Logistic Regression with ElasticNet regularization. The objective is to identify high-risk borrowers and optimize lending decisions using a data-driven approach.
 
 The model handles:
 
@@ -22,9 +20,7 @@ Threshold tuning for business trade-offs
 
 📊 Problem Statement
 
-Financial institutions must assess whether a borrower is likely to default on a loan.
-
-We frame this as a binary classification problem:
+Financial institutions must assess whether a borrower is likely to default on a loan. We frame this as a binary classification problem:
 
 0 → Fully Paid
 
