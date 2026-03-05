@@ -104,9 +104,7 @@ Translating ML metrics into business impact
 
 🚀 Future Improvements
 
-Compare with XGBoost / LightGBM
-
-Add 
+Compare with XGBoost 
 
 Deploy via FastAPI
 
