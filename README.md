@@ -103,7 +103,7 @@ Interpreting logistic regression coefficients
 Translating ML metrics into business impact
 
 🚀 Future Improvements
-Compare with XGBoost 
+
 
 Deploy via FastAPI
 
