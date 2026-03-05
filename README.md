@@ -106,7 +106,7 @@ Translating ML metrics into business impact
 
 Compare with XGBoost / LightGBM
 
-Add model calibration curve
+Add model calibration
 
 Deploy via FastAPI
 
