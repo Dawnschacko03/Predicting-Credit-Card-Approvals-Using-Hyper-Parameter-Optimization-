@@ -102,8 +102,6 @@ Interpreting logistic regression coefficients
 
 Translating ML metrics into business impact
 
-🚀 Future Improvements
-
 
 Deploy via FastAPI
 
