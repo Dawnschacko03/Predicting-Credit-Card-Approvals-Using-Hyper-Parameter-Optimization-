@@ -106,5 +106,3 @@ Translating ML metrics into business impact
 Deploy via FastAPI
 
 Add SHAP explainability
-
-Add CI/CD 
